@@ -1,0 +1,30 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snoowrap": "^1.22.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "https-proxy-agent": "^5.0.0",
+    "jfile": "^1.1.12",
+    "mongoose": "^5.11.15",
+    "mongoose-to-csv": "^0.1.1",
+    "node-fetch": "^2.6.1",
+    "p-queue": "^6.6.2",
+    "puppeteer": "^7.0.1",
+    "puppeteer-extra": "^3.1.16",
+    "puppeteer-extra-plugin-recaptcha": "^3.3.2",
+    "puppeteer-extra-plugin-stealth": "^2.7.4",
+    "puppeteer-proxy": "^2.1.1"
+  }
+}
