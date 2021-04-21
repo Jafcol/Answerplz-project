@@ -13,7 +13,7 @@ The main elements of this service are 3:
 
 To deploy this service you need to:
 
-1. Add your credentials to the code (get them from google cloud platform linked above)
+1. Add your json key to root directory (get it from google cloud platform) and point to the file from Dockerfile environment variable
 
 2. Convert your trained GPT models to ONNX format and put them in root directory ([conversion guide](https://github.com/onnx/tutorials#converting-to-onnx-format "ONNX conversion tutorial"))
 
