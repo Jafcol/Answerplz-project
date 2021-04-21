@@ -11,4 +11,4 @@ The main elements of this project are 4:
 
 3. Android app where users can interact vocally with the AI and leave their feedback
 
-4. Website where users can interact with the AI and leave their feedback
+4. Website where users can digit questions to the AI and leave their feedback
